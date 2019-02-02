@@ -6,8 +6,7 @@ A script that predicts the salary of an NBA player given a series of figures ran
 The predictor was created using data from just 230 players, which prevents supremely accurate results. However, the following accuracies were found:
 
 Logistic Regression Model: MSE of approximately 3.5
-
-DEEP Neural Network: MSE of approximately 3.8 
+Deep Neural Network: MSE of approximately 3.8 
 
 
 This accuracy is relatively good, and would allow players to gauge how much they will be paid in upcoming free agency deals when their contracts expire.
